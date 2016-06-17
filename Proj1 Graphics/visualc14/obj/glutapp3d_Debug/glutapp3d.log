@@ -1,0 +1,48 @@
+﻿  app_main.cpp
+  floor.cpp
+  gs_image.cpp
+  model.cpp
+  normals.cpp
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\normals.cpp(31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\normals.cpp(32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\normals.cpp(42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\normals.cpp(43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\normals.cpp(70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\normals.cpp(71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\normals.cpp(81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\normals.cpp(82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\normals.cpp(109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\normals.cpp(110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\normals.cpp(120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\normals.cpp(121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  so_axis.cpp
+  app_window.cpp
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\app_window.cpp(221): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\app_window.cpp(223): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\app_window.cpp(224): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\app_window.cpp(225): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\app_window.cpp(226): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\app_window.cpp(227): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\app_window.cpp(230): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\app_window.cpp(234): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\app_window.cpp(238): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\app_window.cpp(239): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\app_window.cpp(243): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\app_window.cpp(245): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\app_window.cpp(246): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\app_window.cpp(247): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\app_window.cpp(266): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\desktop\graphics labs\proj1 graphics\app_window.cpp(267): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  glut_window.cpp
+  gs.cpp
+  gs_color.cpp
+  gs_mat.cpp
+  gs_quat.cpp
+  gs_vec.cpp
+  gs_vec2.cpp
+  ogl_tools.cpp
+  so_capsule.cpp
+  so_model.cpp
+  Generating Code...
+  glutapp3d.vcxproj -> C:\Users\Nicholas\Desktop\graphics labs\Proj1 Graphics\visualc14\obj\glutapp3d_Debug\glutapp3d.exe
+          1 file(s) copied.
