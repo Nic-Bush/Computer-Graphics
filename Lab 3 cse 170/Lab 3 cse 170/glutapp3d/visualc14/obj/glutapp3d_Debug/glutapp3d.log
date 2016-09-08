@@ -1,0 +1,41 @@
+﻿  app_main.cpp
+c:\users\nicholas\downloads\graphics\lab 3 cse 170\lab 3 cse 170\glutapp3d\so_clock.h(28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  so_axis.cpp
+  app_window.cpp
+c:\users\nicholas\downloads\graphics\lab 3 cse 170\lab 3 cse 170\glutapp3d\so_clock.h(28): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\nicholas\downloads\graphics\lab 3 cse 170\lab 3 cse 170\glutapp3d\app_window.cpp(80): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nicholas\downloads\graphics\lab 3 cse 170\lab 3 cse 170\glutapp3d\app_window.cpp(81): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\nicholas\downloads\graphics\lab 3 cse 170\lab 3 cse 170\glutapp3d\app_window.cpp(82): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nicholas\downloads\graphics\lab 3 cse 170\lab 3 cse 170\glutapp3d\app_window.cpp(83): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\nicholas\downloads\graphics\lab 3 cse 170\lab 3 cse 170\glutapp3d\app_window.cpp(84): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nicholas\downloads\graphics\lab 3 cse 170\lab 3 cse 170\glutapp3d\app_window.cpp(85): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\nicholas\downloads\graphics\lab 3 cse 170\lab 3 cse 170\glutapp3d\app_window.cpp(184): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  glut_window.cpp
+  gs.cpp
+  gs_color.cpp
+  gs_mat.cpp
+  gs_quat.cpp
+  gs_vec.cpp
+  gs_vec2.cpp
+  ogl_tools.cpp
+  so_capsule.cpp
+c:\users\nicholas\downloads\graphics\lab 3 cse 170\lab 3 cse 170\glutapp3d\so_capsule.cpp(26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\downloads\graphics\lab 3 cse 170\lab 3 cse 170\glutapp3d\so_capsule.cpp(38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\downloads\graphics\lab 3 cse 170\lab 3 cse 170\glutapp3d\so_capsule.cpp(60): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  so_clock.cpp
+c:\users\nicholas\downloads\graphics\lab 3 cse 170\lab 3 cse 170\glutapp3d\so_clock.h(28): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\nicholas\downloads\graphics\lab 3 cse 170\lab 3 cse 170\glutapp3d\so_clock.cpp(25): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nicholas\downloads\graphics\lab 3 cse 170\lab 3 cse 170\glutapp3d\so_clock.cpp(26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\nicholas\downloads\graphics\lab 3 cse 170\lab 3 cse 170\glutapp3d\so_clock.cpp(27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\nicholas\downloads\graphics\lab 3 cse 170\lab 3 cse 170\glutapp3d\so_clock.cpp(39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\downloads\graphics\lab 3 cse 170\lab 3 cse 170\glutapp3d\so_clock.cpp(40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\downloads\graphics\lab 3 cse 170\lab 3 cse 170\glutapp3d\so_clock.cpp(43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\downloads\graphics\lab 3 cse 170\lab 3 cse 170\glutapp3d\so_clock.cpp(44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\downloads\graphics\lab 3 cse 170\lab 3 cse 170\glutapp3d\so_clock.cpp(57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\downloads\graphics\lab 3 cse 170\lab 3 cse 170\glutapp3d\so_clock.cpp(58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\downloads\graphics\lab 3 cse 170\lab 3 cse 170\glutapp3d\so_clock.cpp(59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\downloads\graphics\lab 3 cse 170\lab 3 cse 170\glutapp3d\so_clock.cpp(60): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  so_cylinder.cpp
+  Generating Code...
+  glutapp3d.vcxproj -> C:\Users\Nicholas\Downloads\graphics\Lab 3 cse 170\Lab 3 cse 170\glutapp3d\visualc14\obj\glutapp3d_Debug\glutapp3d.exe
+          1 file(s) copied.

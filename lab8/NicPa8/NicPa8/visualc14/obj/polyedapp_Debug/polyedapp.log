@@ -1,0 +1,31 @@
+﻿Build started 11/23/2015 10:09:52 PM.
+     1>Project "C:\Users\Nicholas\Desktop\NillsPa8\NillsPa8\visualc14\polyedapp.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I../ /I../freeglut /I../glew /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm- /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"obj\polyedapp_Debug\\" /Fd"obj\polyedapp_Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ..\app_window.cpp ..\curve_eval.cpp
+         app_window.cpp
+     1>c:\users\nicholas\desktop\nillspa8\nillspa8\app_window.cpp(113): warning C4305: '-=': truncation from 'double' to 'float'
+     1>c:\users\nicholas\desktop\nillspa8\nillspa8\app_window.cpp(140): warning C4305: '+=': truncation from 'double' to 'float'
+         curve_eval.cpp
+     1>c:\users\nicholas\desktop\nillspa8\nillspa8\curve_eval.cpp(196): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"obj\polyedapp_Debug\polyedapp.exe" /NOLOGO ../freeglut/freeglut.lib ../glew/glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"obj\polyedapp_Debug\polyedapp.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"obj\polyedapp_Debug\polyedapp.lib" /MACHINE:X86 /SAFESEH obj\polyedapp_Debug\app_main.obj
+         obj\polyedapp_Debug\curve_eval.obj
+         obj\polyedapp_Debug\so_axis.obj
+         obj\polyedapp_Debug\app_window.obj
+         obj\polyedapp_Debug\glut_window.obj
+         obj\polyedapp_Debug\gs.obj
+         obj\polyedapp_Debug\gs_array.obj
+         obj\polyedapp_Debug\gs_color.obj
+         obj\polyedapp_Debug\gs_mat.obj
+         obj\polyedapp_Debug\gs_quat.obj
+         obj\polyedapp_Debug\gs_vec.obj
+         obj\polyedapp_Debug\gs_vec2.obj
+         obj\polyedapp_Debug\ogl_tools.obj
+         obj\polyedapp_Debug\so_poly.obj
+         polyedapp.vcxproj -> C:\Users\Nicholas\Desktop\NillsPa8\NillsPa8\visualc14\obj\polyedapp_Debug\polyedapp.exe
+     1>Done Building Project "C:\Users\Nicholas\Desktop\NillsPa8\NillsPa8\visualc14\polyedapp.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.80

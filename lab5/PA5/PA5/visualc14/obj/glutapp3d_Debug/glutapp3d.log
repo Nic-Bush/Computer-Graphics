@@ -1,0 +1,60 @@
+﻿  app_main.cpp
+  model.cpp
+  normals.cpp
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\normals.cpp(31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\normals.cpp(32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\normals.cpp(42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\normals.cpp(43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\normals.cpp(70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\normals.cpp(71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\normals.cpp(81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\normals.cpp(82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\normals.cpp(109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\normals.cpp(110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\normals.cpp(120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\normals.cpp(121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  so_axis.cpp
+  app_window.cpp
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\app_window.cpp(55): warning C4552: '!=': operator has no effect; expected operator with side-effect
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\app_window.cpp(160): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\app_window.cpp(161): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\app_window.cpp(162): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  glut_window.cpp
+  gs.cpp
+  gs_color.cpp
+  gs_mat.cpp
+  gs_quat.cpp
+  gs_vec.cpp
+  gs_vec2.cpp
+  ogl_tools.cpp
+  so_model.cpp
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\so_model.cpp(39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\so_model.cpp(40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\so_model.cpp(41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\so_model.cpp(45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\so_model.cpp(46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\so_model.cpp(47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\so_model.cpp(51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\so_model.cpp(52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\so_model.cpp(53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\so_model.cpp(78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\so_model.cpp(79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\so_model.cpp(80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\so_model.cpp(83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\so_model.cpp(84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\so_model.cpp(85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\so_model.cpp(88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\so_model.cpp(89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\so_model.cpp(90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\so_model.cpp(115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\so_model.cpp(116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\so_model.cpp(117): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\so_model.cpp(120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\so_model.cpp(121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\so_model.cpp(122): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\so_model.cpp(126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\so_model.cpp(127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nicholas\documents\github\computer-graphics\lab5\pa5\pa5\so_model.cpp(128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  glutapp3d.vcxproj -> C:\Users\Nicholas\Documents\GitHub\Computer-Graphics\lab5\PA5\PA5\visualc14\obj\glutapp3d_Debug\glutapp3d.exe
+          1 file(s) copied.
